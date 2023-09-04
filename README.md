@@ -1,1 +1,1 @@
-# RandoRock-Paper-Scissors-Game
+# Random-Rock-Paper-Scissors-Game
